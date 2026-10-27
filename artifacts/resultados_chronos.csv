@@ -1,0 +1,2 @@
+modelo,familia,L,estrategia,usa_covariables,training_seconds,inference_seconds,hardware,mae,rmse,wape,mape,mase
+Chronos-Bolt,Fundacional,2048,zero-shot,False,1e-09,413.16374449999967,CPU,69.81951810155172,604.9027754683844,0.07914344176351236,,0.809176831855364

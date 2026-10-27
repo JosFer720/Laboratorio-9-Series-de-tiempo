@@ -1,0 +1,2 @@
+modelo,familia,L,estrategia,usa_covariables,training_seconds,inference_seconds,hardware,mae,rmse,wape,mape,mase
+LightGBM,Árboles,168,autorregresiva,True,6.271536299999752,16.475421000000097,CPU,88.23435318609994,755.7146977957319,0.10001745332542021,,1.6926216292213376

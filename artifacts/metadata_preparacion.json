@@ -1,0 +1,29 @@
+{
+  "sha256_datos_crudos": "d51565f2cb5a6b768d06ba1bbd3c084c6e2f3aab07f00c6f2dcb80e90175124b",
+  "forma_cruda": [
+    140256,
+    370
+  ],
+  "forma_horaria": [
+    35064,
+    370
+  ],
+  "clientes_completos": 320,
+  "clientes_seleccionados": 100,
+  "horas_por_serie": 26304,
+  "observaciones_panel": 2630400,
+  "semilla": 3092,
+  "L": 168,
+  "H": 24,
+  "ventanas": {
+    "train": 2169700,
+    "validation": 218500,
+    "test": 218500
+  },
+  "auditoria_fugas": {
+    "temporal_split": true,
+    "train_only_scaling": true,
+    "validation_only_early_stopping": true,
+    "aligned_known_future_covariates": true
+  }
+}
